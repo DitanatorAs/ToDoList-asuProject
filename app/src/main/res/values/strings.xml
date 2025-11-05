@@ -1,0 +1,9 @@
+<!-- Хранения всех строковых констант приложения -->
+<resources>
+    <string name="app_name">Hello Kotlin</string>
+    <string name="hello_kotlin">Hello kotlin!</string>
+    <string name="MyListWork">Мой список дел</string>
+    <string name="NewTask">Новая задача</string>
+    <string name="AddTask">Добавить</string>
+    <string name="DeleteTask">Удалить выполненные</string>
+</resources>
