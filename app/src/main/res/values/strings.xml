@@ -1,9 +1,10 @@
 <!-- Хранения всех строковых констант приложения -->
 <resources>
-    <string name="app_name">Hello Kotlin</string>
+    <string name="app_name">To Do List</string>
     <string name="hello_kotlin">Hello kotlin!</string>
     <string name="MyListWork">Мой список дел</string>
     <string name="NewTask">Новая задача</string>
     <string name="AddTask">Добавить</string>
     <string name="DeleteTask">Удалить выполненные</string>
+    <string name="signature">Главин Георгий Ф3.305с9-1</string>
 </resources>
